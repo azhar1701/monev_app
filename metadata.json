@@ -1,0 +1,6 @@
+{
+  "name": "MonevSDA - Monitoring Konstruksi Saluran Air",
+  "description": "Aplikasi monitoring dan evaluasi akhir kuantitas dimensi konstruksi sumber daya air berbasis mobile, terintegrasi peta GIS, analitik, dan sinkronisasi Google Sheets / AppSheet.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
